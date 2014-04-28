@@ -1,7 +1,7 @@
 # No Big Deal dot JS
 
 - Author: Aaron Bieber
-- Commiter: Bryce Chidester
+- Committer: Bryce Chidester
 
 # Update: 
 NBDJS now listens to an irc channel you specify with -c
